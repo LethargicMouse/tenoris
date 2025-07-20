@@ -1,0 +1,4 @@
+[[pat]] [[-o]]
+
+father
+dad
