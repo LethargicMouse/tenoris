@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7728f52c82676f1a",
+        "id": "87f7e2f43891dc9d",
         "type": "tabs",
-        "dimension": 47.38903394255875,
         "children": [
           {
-            "id": "8dda67866cd4e34e",
+            "id": "28f5144f2e8326a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "words/monlape.md",
+                "file": "sentences/go touch some grass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "monlape"
+              "title": "go touch some grass"
             }
           }
         ]
@@ -27,7 +26,6 @@
       {
         "id": "e9be122b5f292f4e",
         "type": "tabs",
-        "dimension": 52.61096605744125,
         "children": [
           {
             "id": "ad3bb68d9db52795",
@@ -183,8 +181,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8dda67866cd4e34e",
+  "active": "28f5144f2e8326a7",
   "lastOpenFiles": [
+    "words/ksiro.md",
+    "roots/ksir.md",
+    "sentences/go touch some grass.md",
+    "words/renetena.md",
+    "roots/neten.md",
+    "roots/konten.md",
+    "roots/lap.md",
+    "words/ti.md",
+    "words/mota.md",
+    "words/monlape.md",
     "words/teno.md",
     "words/tenor.md",
     "words/tenoris.md",
@@ -200,16 +208,6 @@
     "modifiers/-o.md",
     "modifiers/-n.md",
     "roots/ten.md",
-    "words/monlape.md",
-    "modifiers/-e.md",
-    "roots/lap.md",
-    "roots/pal.md",
-    "words/mon.md",
-    "modifiers/-a.md",
-    "words/mera.md",
-    "roots/mer.md",
-    "roots/rem.md",
-    "words/ne.md",
-    "roots/tom.md"
+    "modifiers/-e.md"
   ]
 }

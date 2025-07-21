@@ -1,2 +1,2 @@
 [[kon]] [[ten]]
-appearance, to look at
+appearance, look
