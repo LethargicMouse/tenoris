@@ -1,2 +1,2 @@
-return, coming back, restoration
+return, coming back
 see [[mot]]

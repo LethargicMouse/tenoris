@@ -1,0 +1,3 @@
+[[tenor]] [[-is]]
+words
+language

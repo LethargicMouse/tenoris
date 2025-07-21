@@ -1,0 +1,2 @@
+idea, think
+see [[net]]
