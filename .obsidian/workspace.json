@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "words/tenoris.md",
+                "file": "words/monlape.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tenoris"
+              "title": "monlape"
             }
           }
         ]
@@ -183,22 +183,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad3bb68d9db52795",
+  "active": "8dda67866cd4e34e",
   "lastOpenFiles": [
+    "words/teno.md",
+    "words/tenor.md",
     "words/tenoris.md",
+    "roots/net.md",
+    "sentences/i am adam.md",
     "sentences/we are trying not to die here.md",
+    "sentences/is dad coming?.md",
     "words/rapa.md",
     "roots/par.md",
     "modifiers/-is.md",
-    "words/tenor.md",
     "modifiers/-r.md",
     "modifiers/-s.md",
     "modifiers/-o.md",
     "modifiers/-n.md",
-    "teno.md",
     "roots/ten.md",
-    "net.md",
-    "monlape.md",
+    "words/monlape.md",
     "modifiers/-e.md",
     "roots/lap.md",
     "roots/pal.md",
@@ -208,8 +210,6 @@
     "roots/mer.md",
     "roots/rem.md",
     "words/ne.md",
-    "roots/tom.md",
-    "roots/rap.md",
-    "words/mos.md"
+    "roots/tom.md"
   ]
 }
