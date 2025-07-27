@@ -1,1 +1,1 @@
-#noun -> plural #noun 
+#noun -> #plural #noun 

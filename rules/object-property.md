@@ -1,1 +1,1 @@
-#object = #property #object 
+#object = #object #property

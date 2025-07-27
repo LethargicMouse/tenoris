@@ -1,4 +1,4 @@
-[[fes]] [[ket]] [[koteiras]] [[ksin]]
+[[fes]] [[ket]] [[koteres]] [[korovin]]
 
 [[sentence-imperative]]
 [[sentence-and]]
