@@ -1,3 +1,0 @@
-[[ten]] [[-o]]
-idea, thought
-

@@ -1,3 +1,0 @@
-[[tenor]] [[-is]]
-words
-language

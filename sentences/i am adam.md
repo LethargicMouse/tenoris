@@ -1,1 +1,4 @@
-[[mo]] [[tsa]] [[hadamo]].
+[[mon]] [[tas]] [[yadamon]]
+
+[[sentence-basic]]
+[[action-dependent]]

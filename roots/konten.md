@@ -1,2 +1,0 @@
-[[kon]] [[ten]]
-appearance, look

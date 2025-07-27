@@ -1,2 +1,0 @@
-adjective or adverb
-property

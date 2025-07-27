@@ -1,0 +1,2 @@
+[[ya]] damo [[n]]
+#adam

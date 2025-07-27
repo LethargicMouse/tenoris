@@ -1,2 +1,0 @@
-matter, reality 
-see [[ten]]

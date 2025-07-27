@@ -1,2 +1,0 @@
-end, death
-see [[rem]]

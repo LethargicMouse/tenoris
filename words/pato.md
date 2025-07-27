@@ -1,4 +1,0 @@
-[[pat]] [[-o]]
-
-father
-dad
