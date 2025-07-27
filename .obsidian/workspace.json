@@ -11,10 +11,24 @@
             "id": "5b2767bbc0ba6442",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "words/sot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sot"
             }
           }
         ]
@@ -163,16 +177,22 @@
   },
   "active": "5b2767bbc0ba6442",
   "lastOpenFiles": [
+    "roots/so.md",
+    "words/mon.md",
+    "roots/mo.md",
+    "roots/si.md",
+    "roots/kodovi.md",
+    "roots/vi.md",
+    "modifiers/is.md",
+    "words/mosin.md",
+    "sentences/is our enemy coming?.md",
     "sentences/we are trying not to die here.md",
     "modifiers/en.md",
     "words/monisen.md",
-    "sentences/is our enemy coming?.md",
     "words/sot.md",
-    "so.md",
     "roots/ko.md",
     "roots/do.md",
     "roots/kodo.md",
-    "roots/kodovi.md",
     "words/kodovin.md",
     "roots/te.md",
     "roots/me.md",
@@ -183,12 +203,6 @@
     "roots/pa.md",
     "roots/teko.md",
     "words/tekores.md",
-    "sentences/go touch some grass.md",
-    "words/menes.md",
-    "roots/ne.md",
-    "words/ras.md",
-    "roots/ra.md",
-    "words/monis.md",
     "names",
     "Untitled",
     "english-words",

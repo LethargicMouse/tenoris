@@ -1,4 +1,4 @@
-[[monis]] [[ras]] [[menes]] [[penor]]
+[[mosin]] [[ras]] [[menes]] [[penor]]
 
 [[sentence-basic]]
 [[action-dependent]]
