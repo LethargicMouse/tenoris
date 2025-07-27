@@ -1,3 +1,3 @@
-[[ko]] [[ro]]
+[[ko]] [[do]]
 #ground #floor 
 

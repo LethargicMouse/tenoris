@@ -1,2 +1,0 @@
-[[korovi]] [[n]]
-#grass 

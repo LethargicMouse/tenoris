@@ -1,4 +1,4 @@
-[[sar]] [[ban]] [[monisen]] [[feres]]
+[[sar]] [[ban]] [[sot]] [[monis]] [[feres]]
 
 [[question-basic]]
 [[sentence-basic]]

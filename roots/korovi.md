@@ -1,2 +1,0 @@
-[[koro]] [[vi]]
-#grass 
